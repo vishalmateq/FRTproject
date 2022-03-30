@@ -1,6 +1,6 @@
 # FrtProject  
 
-Website Link   : ( click On FAQ image ): https://jolly-cliff-00e87c310.1.azurestaticapps.net/
+Website Link  ( click On FAQ image ): https://jolly-cliff-00e87c310.1.azurestaticapps.net/
 
 Video demo URL : 
 
