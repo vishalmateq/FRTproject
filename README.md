@@ -1,5 +1,9 @@
 # FrtProject  
 
+Website Link : https://jolly-cliff-00e87c310.1.azurestaticapps.net/
+
+Plaese click On FAQ Option
+
 This is the "Future Ready Talent" Project. Basically we have created a Website and hosted it to the #Microsoft Azure platform 
 Here, we have created the Fresh Meal Shop website by using HTML,CSS,JS in the microsoft id "VISUAL STUDIO CODE" then
 
